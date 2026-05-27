@@ -54,7 +54,18 @@ Bookings stack up. Premium prices feel normal. You're working 1 hour a day. From
 
 I'm Emma — and I used to be drowning.
 
-$5K/month. 60-hour weeks. Three VAs hired: two ghosted, one slower than me. ChatGPT sounded like ChatGPT. Sintra burned $97/month for the same generic slop.
+$5K/month. 60-hour weeks. Late nights with sixteen tabs open, trying to remember if I'd sent that follow-up. Trying to write the captions I'd promised to batch on Sunday. Trying to figure out why a business that was "going well" felt like it was slowly eating me alive.
+
+Somewhere along the way, I'd turned into six different people:
+The marketer. The copywriter. The customer support rep. The bookkeeper. The salesperson. The janitor.
+
+Six jobs. One brain. No team.
+
+And the worst part? I felt guilty for being tired. While everyone else on Instagram was "scaling." So I kept telling myself the lie: *just work harder, wake up earlier, be more disciplined.*
+
+You won't get there that way. I didn't.
+
+Three VAs hired: two ghosted, one slower than me. ChatGPT sounded like ChatGPT. Sintra burned $97/month for the same generic slop.
 
 So I built the system I needed.
 
@@ -147,6 +158,16 @@ It's 100% AI. 👇
 
 I'm Emma — life coach, mom of two, former burnout case.
 
+You know that feeling? Business "going well" on paper — but it's slowly eating you alive.
+
+Eleven P.M. at the laptop. Kids asleep. Sixteen tabs open. Trying to remember if I'd sent that follow-up. I'd turned into six people: the marketer, the copywriter, the customer support rep, the bookkeeper, the salesperson, the janitor.
+
+Six jobs. One brain. No team.
+
+When something went wrong, there was no group chat to ping. No co-worker to say "I've got this — go take a break." Just me, the silence, and a to-do list that grew faster than I could cross things off.
+
+I felt guilty for being tired.
+
 I tried every shortcut. Three VAs (two ghosted). ChatGPT — sounded like ChatGPT. Sintra — $97/month for the same generic slop. I hoarded prompt cheat sheets like they'd save me.
 
 They didn't.
@@ -195,15 +216,18 @@ I welcome you to…
 
 # Comparison & Recommendation
 
-|                          | Variant A ("Kitchen Table")        | Variant B ("Made Me Cry")           |
-|--------------------------|------------------------------------|--------------------------------------|
-| **Lead angle**           | Imagine → reveal                   | Imagine specific Monday morning      |
-| **Emotional peak**       | "Cried at my kitchen table"        | "I cried. That's my actual voice."   |
-| **Proof type**           | Revenue chart ($5K → $18K)         | Student DM screenshots               |
-| **Best for ads from…**   | Burnout / freedom-seeking traffic  | "Tried other AI courses" traffic     |
-| **Hero visual**          | Indistinguishable side-by-side     | Monday morning dashboard             |
+|                          | Variant A ("Kitchen Table")                      | Variant B ("Made Me Cry")                        |
+|--------------------------|--------------------------------------------------|--------------------------------------------------|
+| **Pain opener**          | "16 tabs, couldn't remember the follow-up"       | "Business going well — but eating you alive"     |
+| **Six roles**            | Listed inside Emma's personal story              | Listed inside Emma's personal story              |
+| **Loneliness detail**    | "felt guilty for being tired / scaling lie"      | "no group chat to ping / to-do list grows"       |
+| **Emotional peak**       | Revenue chart $5K → $18K                         | "I cried at my kitchen table"                    |
+| **Proof type**           | Revenue numbers + side-by-side output            | Student DM screenshots                           |
+| **Lead into solution**   | "Imagine you scroll a week of content…"          | "Imagine opening Claude on Monday morning…"      |
+| **Best for ads from…**   | Burnout / freedom-seeking cold traffic           | "Tried every AI tool" warm-ish traffic           |
+| **Hero visual**          | Indistinguishable output side-by-side            | Monday morning dashboard                         |
 
-**My pick: Variant A** for cold paid traffic (broader emotional pull, clearer transformation arc). **Variant B** if testimonials/social proof are strong assets you want to lean on.
+**My pick: Variant A** for cold paid traffic — the pain arc is longer and more specific before the breakthrough, which builds more trust with someone who's never heard of the product. **Variant B** if you have strong real testimonials/screenshots to show.
 
 ---
 
