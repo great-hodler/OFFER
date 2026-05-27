@@ -203,50 +203,92 @@ You just haven't seen the real thing yet.
 
 ## SECTION 5 — The Paradigm Shift (Mechanism)
 
-### Headline — Variant A (CHOSEN)
+### Headline — Variant A (CHOSEN, updated)
 
-**The Difference Between Using AI and Having AI Work For You.**
+**Two Shifts Most People Miss: AI That Knows You. AI That Actually Does The Work.**
 
 ### Headline — Variant B
 
-**Prompts Are Dead. Context Is Everything.**
+**Your AI Doesn't Talk About The Task. It Does The Task.**
 
 ### Headline — Variant C
 
-**Why 95% of Solopreneurs Get Garbage From AI — And What The Top 5% Do Instead.**
+**Prompts Are Dead. Context + Action Is Everything.**
+
+### Headline — Variant D
+
+**From "AI Tells You How" → "AI Just Does It."**
+
+---
+
+> ➕ **СЕКЦИЯ ОБНОВЛЕНА:** теперь раскрывает два пилона механизма, а не один. Context Engineering (AI знает бизнес) + Connectors (AI делает реальные задачи в Canva, Gmail, Calendar, Stripe).
 
 ---
 
 **Body:**
 
-There are two ways to use AI in 2026.
+There are three ways to use AI in 2026. Most people are still stuck at level one.
 
-The old way: you sit at your laptop and try to write the perfect prompt. You explain who you are, what your business does, what tone you want, what audience you're talking to, what offer you're selling — every single time. By the time you finish typing the setup, you could have written the thing yourself.
+**Level 1 — The Chatbot.**
+You sit at your laptop. Type the perfect prompt. Wait. Copy. Paste. Format. Polish. Email. Repeat.
+The AI talks. You do all the work.
 
-The new way: your AI already knows. All of it.
+**Level 2 — The Second Brain.**
+Your AI knows your business cold. Your voice. Your offers. Your audience. You stop writing prompts and start giving instructions, like you would to a real employee. It drafts in your voice.
+But you still have to take the draft and *do* something with it.
 
-It knows your business model. Your voice. Your offers. Your audience. Your prices. Your tone. Your past clients. Your sales scripts. Your story.
-
-You don't write prompts. You give instructions. Like you would to a real employee.
+**Level 3 — The AI Team.**
+Your AI doesn't draft and hand the work back. It *does* the work. It opens Canva and designs the carousel. It opens Gmail and drafts the replies. It updates the calendar. It pulls the Stripe report. It sends the follow-ups.
+You make decisions. It executes.
 
 This is the shift.
 
-It's called **Context Engineering** — and it's the difference between AI as a fancy Google search and AI as a full-time team.
+---
 
-| Without AI Dream Team                            | With AI Dream Team                              |
-|--------------------------------------------------|-------------------------------------------------|
-| Explain your business every single session       | Claude already knows your business cold         |
-| Generic output that sounds like AI               | Output sounds exactly like you                  |
-| 2 hours fixing and rewriting every draft         | First draft is 90% done                         |
-| Forget tasks, miss follow-ups                    | Your team runs daily SOPs automatically         |
-| New tool to learn every month                    | One platform: Claude. That's it.                |
-| $97/mo forever for mediocre agents               | $67 one-time. Yours forever.                    |
+### It's built on two pillars:
+
+**1. Context Engineering** — Claude knows your business cold (your voice, offers, audience, prices, story, sales scripts), so every output sounds and reads like *you*.
+
+**2. Connectors & Actions** — Claude is plugged into the tools you already use (Canva, Gmail, Google Calendar, Drive, Notion, Stripe, your CRM), so it doesn't just *tell* you what to do — it goes and does it.
+
+Together, these two shifts turn AI from a chatbot into a team.
+
+---
+
+### Things that used to require you. Now they don't:
+
+> **[VISUAL: row of 5 cards — each showing a connected tool icon (Canva / Gmail / Calendar / Stripe / WordPress) + the task that gets done inside it.]**
+
+- 🎨 **"Design a launch carousel for the workshop"** → Claude opens Canva, designs it on-brand, drops the link in your inbox.
+- 📧 **"Check my email and draft replies to anything from a client"** → Claude reads Gmail, writes on-brand responses, queues them for your one-click approval.
+- 📅 **"Schedule a follow-up call with Sarah next Tuesday"** → Claude opens your calendar, finds the slot, sends the invite.
+- 💰 **"Pull last month's revenue and prep my weekly CEO review"** → Claude pulls from Stripe, builds the report, sends it to your Slack.
+- 📝 **"Turn yesterday's voice note into a blog post and publish it"** → Claude transcribes, drafts, optimizes for SEO, and queues it in WordPress.
+
+You're not the operator anymore. You're the CEO.
+
+---
+
+| Without AI Dream Team                            | With AI Dream Team                                          |
+|--------------------------------------------------|-------------------------------------------------------------|
+| Explain your business every single session       | Claude already knows your business cold                     |
+| Generic output that sounds like AI               | Output sounds exactly like you                              |
+| AI talks — you still do all the work             | **AI does the work — you make decisions**                   |
+| 2 hours fixing and rewriting every draft         | First draft is 90% done — and queued in the right tool      |
+| Bouncing between 12 tabs to ship one task        | One Claude conversation. Connected to every tool.           |
+| Forget tasks, miss follow-ups                    | Your team runs daily SOPs automatically                     |
+| New tool to learn every month                    | One platform: Claude. That's it.                            |
+| $97/mo forever for mediocre agents               | $67 one-time. Yours forever.                                |
+
+---
 
 **The insight you've been missing:**
 
 > What's inside the context window matters more than how you phrase the request.
 >
-> We're not selling prompts. We're selling the system that makes your AI actually know your business — so it stops producing garbage and starts producing *you*.
+> AND — what your AI is *connected* to matters more than what it knows.
+>
+> Context + Connectors = a team that doesn't draft. It **delivers.**
 
 ---
 
