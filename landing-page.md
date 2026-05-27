@@ -126,6 +126,12 @@ Not because you're not good enough.
 
 **Because you are building something real. And you're building it completely alone.**
 
+> ➕ **ВСТАВКА #1 — "You're the bottleneck"**
+>
+> You are the bottleneck. Still the one writing every email, editing every caption, answering every DM. Using AI like a chatbot when you know it could be running like a team.
+>
+> The problem isn't that you don't understand AI. The problem is nobody has handed you the infrastructure that makes AI actually run your business.
+
 Until now.
 
 ---
@@ -304,6 +310,10 @@ Your business runs without your hands on it. You make CEO decisions. Everything 
 
 **The other 23 hours of the day?** Your AI team handles them. While you're living.
 
+> ➕ **ВСТАВКА #2 — конкретный временной якорь**
+>
+> By 9 A.M., you've done what used to eat your entire Monday. The rest of the week is yours — for the strategy, the creative work you actually love, or just showing up to life without a laptop in your hands.
+
 ---
 
 **This is not a fantasy. It's a system. And it takes one weekend to build.**
@@ -317,6 +327,10 @@ Your business runs without your hands on it. You make CEO decisions. Everything 
 ### Section Headline:
 
 **Everything You Get Inside AI Dream Team**
+
+> ➕ **ВСТАВКА #3 — depth signal (сигнал глубины продукта)**
+>
+> Each employee inside AI Dream Team comes with a complete instruction set — built from real solopreneur workflows and tested across hundreds of one-person businesses. Not a prompt you'd find in a free Facebook group. A fully loaded system with your business baked in.
 
 ---
 
@@ -405,29 +419,70 @@ Your business runs without your hands on it. You make CEO decisions. Everything 
 
 **Meet Your New Team.**
 
-*Visual: 5 cards in a row (or 2x3 grid on mobile). Each card has an icon, name, and key bullets.*
+*Visual: 5 cards in a row (or 2x3 grid on mobile). Each card has an employee photo, name, and task bullets.*
+
+> ➕ **ВСТАВКА #4 — именованные сотрудники вместо безликих "отделов"**
+> *Конкретные имена создают эмоциональную связь: "нанять Stella" работает иначе, чем "использовать Content Module".*
 
 ---
 
 **🎨 CONTENT DEPARTMENT**
-Creates carousels, reels, newsletters, and blog posts. In your voice. From your ideas.
-*Sample employee tasks:* "Turn this voice note into 5 LinkedIn posts" · "Draft this week's newsletter in my tone" · "Write 10 hooks for next week's reels"
+
+**Stella — Caption & Post Writer** *(← ➕)*
+Writes scroll-stopping captions, carousels, and post copy. In your voice. From your ideas.
+*"Turn this voice note into 5 Instagram posts" · "Write 10 hooks for this week's reels"*
+
+**Nova — Newsletter & Blog Writer** *(← ➕)*
+Turns your raw ideas into full newsletters and blog posts. Publish-ready, every time.
+*"Draft this week's email in my tone" · "Turn Tuesday's voice note into a blog post"*
+
+---
 
 **💬 CLIENT DEPARTMENT**
-Answers DMs in 60 seconds. Qualifies leads. Books calls. Sends follow-ups.
-*Sample employee tasks:* "Reply to this DM the way I would" · "Send the standard follow-up to everyone who didn't respond in 3 days" · "Book the discovery call with the new lead"
+
+**Maya — DM Manager & Lead Qualifier** *(← ➕)*
+Answers DMs in 60 seconds, qualifies leads, and books calls — all sounding exactly like you.
+*"Reply to this DM the way I would" · "Qualify the new lead and send the booking link"*
+
+**Chase — Follow-up Specialist** *(← ➕)*
+Sends the right message to the right person at exactly the right time. Nobody slips through the cracks.
+*"Follow up with everyone who didn't reply in 3 days" · "Send the check-in to my current clients"*
+
+---
 
 **📈 MARKETING DEPARTMENT**
-Writes copy for offers, landing pages, and email sequences. Tests angles. Pulls in research.
-*Sample employee tasks:* "Write the launch email for the workshop" · "Give me 3 hooks for the new offer" · "Rewrite the homepage for the new positioning"
+
+**Leo — Launch Copywriter** *(← ➕)*
+Writes sales pages, launch emails, and offer copy that converts. Ready before your next launch.
+*"Write the launch email for the workshop" · "Give me 3 angles for the new offer"*
+
+**Blake — Ads Specialist** *(← ➕)*
+Short-form hooks, long-form copy, retargeting scripts. For Instagram, Facebook, and beyond.
+*"Write 5 ad hooks for this audience" · "Rewrite this ad — it's not converting"*
+
+---
 
 **⚙️ OPERATIONS DEPARTMENT**
-Calendar management. Invoicing reminders. Client onboarding. The unsexy work that runs the business.
-*Sample employee tasks:* "Send the welcome sequence to the new client" · "Remind me about every invoice that's overdue" · "Prep my Monday with what's on the calendar"
+
+**Quinn — Calendar & Admin Manager** *(← ➕)*
+Preps your week, tracks overdue invoices, manages your daily flow. The unsexy work, handled.
+*"What's on my calendar this week?" · "Remind me about every invoice that's overdue"*
+
+**Finn — Client Onboarding Specialist** *(← ➕)*
+Sends the welcome sequence, sets up every new client, and handles first-step logistics automatically.
+*"Send the onboarding sequence to the new client" · "Prep the welcome package for Sarah"*
+
+---
 
 **🧭 STRATEGY DEPARTMENT**
-Weekly CEO reviews. Offer analysis. Metric monitoring. The view from above.
-*Sample employee tasks:* "Run my weekly review — what worked, what didn't" · "Look at last month's clients and tell me where the money came from" · "What should I focus on next week?"
+
+**Sage — CEO Review Analyst** *(← ➕)*
+Runs your weekly business review. Surfaces what's working, flags what isn't, tells you where to focus.
+*"Run my weekly review — what worked, what didn't" · "Where should I focus next week?"*
+
+**Atlas — Offer & Revenue Intelligence** *(← ➕)*
+Tracks your numbers, analyzes your offer performance, and tells you where the money is coming from.
+*"Look at last month's clients and tell me where the revenue came from" · "Which offer should I push next quarter?"*
 
 ---
 
@@ -473,7 +528,7 @@ Writer, designer, marketer, UGC creator, photographer. Your team handles briefs,
 |                                | ChatGPT alone        | Sintra              | YouTube / Courses    | **AI Dream Team**    |
 |--------------------------------|----------------------|---------------------|----------------------|----------------------|
 | Knows YOUR business            | ❌ Forgets every chat | ⚠️ Limited           | ❌ Generic           | ✅ Fully loaded      |
-| Sounds like you                | ❌ Sounds like AI     | ❌ Generic           | ❌ Theory only       | ✅ Your voice        |
+| Sounds like you                | ❌ Sounds like AI     | ❌ Generic           | ❌ Theory only       | ✅ **[+] Indistinguishable from your own writing** |
 | Works while you sleep          | ❌                    | ⚠️ Unreliable        | ❌                   | ✅                   |
 | Setup time                     | Endless prompting    | Days of fiddling    | Weeks of watching    | **One weekend**      |
 | Phone-friendly                 | ❌                    | ❌                   | ❌                   | ✅                   |
@@ -611,6 +666,10 @@ Your Investment:      $67  (one-time)
 └─────────────────────────────────────────────┘
 ```
 
+> ➕ **ВСТАВКА #7 — сравнение с VA по деньгам**
+>
+> For context: a decent virtual assistant starts at $1,500/month. They work 9-to-5. They call in sick. They quit without notice. Your AI Dream Team costs $67 one-time. Works at 3 A.M. Never takes a day off. Never forgets a thing.
+
 ---
 
 ## SECTION 15 — Guarantee
@@ -694,6 +753,10 @@ Six months later, I'm at $18K/month. I work 1 hour a day. From my phone. From th
 
 I built AI Dream Team because I lived the problem. And now 2,300+ solopreneurs run their businesses the same way I run mine.
 
+> ➕ **ВСТАВКА #8 — "my actual systems" (authenticity claim)**
+>
+> One more thing: this isn't a course *about* AI. What you're getting inside is my actual Claude setup — the exact Projects, Skills, and Frameworks I use to run my coaching business every single day. We're not teaching you theory. We're handing you what's already working.
+
 If you're tired, this is for you.
 
 *— Emma*
@@ -743,6 +806,10 @@ This system is built specifically for Claude — it's the only platform where th
 
 **6. How long do I have access?**
 Lifetime. You buy once. You keep it forever. Including updates.
+
+> ➕ **ВСТАВКА #6 — quarterly updates angle**
+>
+> And as AI evolves, so does your team. New employees are added every quarter at no extra cost — because Claude is moving fast, and this system moves with it. You're not buying a static course. You're buying into infrastructure that stays current.
 
 ---
 
