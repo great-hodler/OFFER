@@ -134,6 +134,86 @@ Not because you're not good enough.
 
 Until now.
 
+If you want to skip the months of failed experiments.
+Skip the VA drama. Skip the prompt cheat sheets.
+Skip the doubt.
+
+**And get straight to a business that runs without you.**
+
+# I welcome you to… **AI Dream Team.**
+### *From "AI Tells You How" → "AI Just Does It."*
+
+---
+
+## SECTION 3B — What's Inside AI Dream Team
+
+*Visual: course cover / app icon right, text left. Conversational — not a features list.*
+
+---
+
+**Here's what's waiting for you inside:**
+
+Not a course full of videos you'll watch and forget.
+Not another prompt cheat sheet you'll save and never open.
+Not a $97/month subscription with anonymous bots who forgot your business by Tuesday.
+
+**AI Dream Team is 30 done-for-you AI employees — organized by department, loaded with ready-made instruction sets, pre-trained on real frameworks that have been tested across hundreds of one-person businesses.**
+
+You plug in your business. They go to work.
+
+> **[VISUAL: Claude Projects dashboard — 5 department folders open (Content / Client / Marketing / Ops / Strategy), each with employee files inside. Real screenshot.]**
+
+---
+
+**The Signature Method: Context + Connectors.**
+
+The only system that *teaches* your AI your business AND *connects* it to the tools you already use — so your team stops handing you drafts and starts getting things done.
+
+---
+
+**→ Part 1: Your Business, Loaded Into Claude.**
+
+The 6-layer upload process — your voice, your offers, your audience, your prices, your story, your strategy. Done once. Every employee runs from it. Every output comes back sounding indistinguishable from you.
+
+> **[VISUAL: Claude Projects — 6 knowledge files labeled: Voice Guide / Offer Map / Audience Profile / Story Bank / Sales Scripts / Pricing Sheet]**
+
+**Why it changes everything:** Without this, AI sounds like AI. With this, your clients can't tell the difference.
+Our students call it: *"The step I had no idea I was missing."*
+
+---
+
+**→ Part 2: 30 Done-For-You Employees — Copy, Paste, Live.**
+
+Not templates. Not fill-in-the-blank worksheets. Fully built Claude Projects and Skills you load in one afternoon. Swap in your business details. Your team is live.
+
+> **[VISUAL: one employee Project opening — role brief, skills attached, knowledge files loaded. Clean Claude UI.]**
+
+**Why it changes everything:** Each employee has a job, a brief, and your full business context. You give the instruction. They execute — in your voice, every time.
+
+---
+
+**→ Part 3: Connectors — AI That Actually Does The Work.**
+
+This is the part most AI courses never teach.
+
+Your team stops handing you drafts to copy-paste. It opens Canva and designs the carousel. It reads Gmail and queues the replies. It pulls the Stripe report. Voice from your phone. One instruction. Done.
+
+> **[VISUAL: Claude mobile — voice command "design the launch carousel" → Canva link in reply → carousel already built, on-brand]**
+
+**Why it changes everything:** You stop being the operator. You become the CEO.
+
+---
+
+**→ Part 4: Skills & Frameworks — The Engine Underneath.**
+
+The ready-made Claude Skills and Frameworks that make every employee faster, sharper, and more consistent. Already tested. Already refined. You inherit the result — without building it from scratch.
+
+> **[VISUAL: Claude Skills panel — 6 skills installed: Voice Tone / Offer Brief / Audience ICP / Launch Calendar / Content Style / CRM Data]**
+
+---
+
+**And now — meet the team that executes all of it.**
+
 ---
 
 ## SECTION 4 — The Broken Promise (Why AI Hasn't Worked For You)
@@ -455,76 +535,119 @@ Your business runs without your hands on it. You make CEO decisions. Everything 
 
 ---
 
-## SECTION 9 — Meet Your Dream Team (Departments)
+## SECTION 9 — Meet Your Dream Team
 
 ### Headline:
 
-**Meet Your New Team.**
+**This Is What Your Team Gets Done While You Live Your Life.**
 
-*Visual: 5 cards in a row (or 2x3 grid on mobile). Each card has an employee photo, name, and task bullets.*
+*Not a demo. Real tasks, executed and delivered — every day.*
 
-> ➕ **ВСТАВКА #4 — именованные сотрудники вместо безликих "отделов"**
-> *Конкретные имена создают эмоциональную связь: "нанять Stella" работает иначе, чем "использовать Content Module".*
-
----
-
-**🎨 CONTENT DEPARTMENT**
-
-**Stella — Caption & Post Writer** *(← ➕)*
-Writes scroll-stopping captions, carousels, and post copy. In your voice. From your ideas.
-*"Turn this voice note into 5 Instagram posts" · "Write 10 hooks for this week's reels"*
-
-**Nova — Newsletter & Blog Writer** *(← ➕)*
-Turns your raw ideas into full newsletters and blog posts. Publish-ready, every time.
-*"Draft this week's email in my tone" · "Turn Tuesday's voice note into a blog post"*
+> **[VISUAL: notification banner — "Your team completed 23 tasks today." Minimal, clean, real UI.]**
 
 ---
 
-**💬 CLIENT DEPARTMENT**
-
-**Maya — DM Manager & Lead Qualifier** *(← ➕)*
-Answers DMs in 60 seconds, qualifies leads, and books calls — all sounding exactly like you.
-*"Reply to this DM the way I would" · "Qualify the new lead and send the booking link"*
-
-**Chase — Follow-up Specialist** *(← ➕)*
-Sends the right message to the right person at exactly the right time. Nobody slips through the cracks.
-*"Follow up with everyone who didn't reply in 3 days" · "Send the check-in to my current clients"*
+**🎨 CONTENT TEAM**
 
 ---
 
-**📈 MARKETING DEPARTMENT**
+**"Turn this voice note into a week of Instagram posts."**
+You talk for 3 minutes on a walk. By the time you get home — 5 captions drafted, formatted, in your tone, with hooks and hashtags. Ready to post.
 
-**Leo — Launch Copywriter** *(← ➕)*
-Writes sales pages, launch emails, and offer copy that converts. Ready before your next launch.
-*"Write the launch email for the workshop" · "Give me 3 angles for the new offer"*
-
-**Blake — Ads Specialist** *(← ➕)*
-Short-form hooks, long-form copy, retargeting scripts. For Instagram, Facebook, and beyond.
-*"Write 5 ad hooks for this audience" · "Rewrite this ad — it's not converting"*
+> **[VISUAL/GIF: iPhone voice memo (2:47) → 5 formatted caption cards on screen. Timestamp: 8 minutes later.]**
 
 ---
 
-**⚙️ OPERATIONS DEPARTMENT**
+**"Write this week's newsletter from my 3 bullet points."**
+Three rough ideas in → 600-word newsletter out. Subject line, preview text, story, CTA. Ready for your email platform.
 
-**Quinn — Calendar & Admin Manager** *(← ➕)*
-Preps your week, tracks overdue invoices, manages your daily flow. The unsexy work, handled.
-*"What's on my calendar this week?" · "Remind me about every invoice that's overdue"*
-
-**Finn — Client Onboarding Specialist** *(← ➕)*
-Sends the welcome sequence, sets up every new client, and handles first-step logistics automatically.
-*"Send the onboarding sequence to the new client" · "Prep the welcome package for Sarah"*
+> **[VISUAL: Gmail compose — full newsletter, subject line visible, formatted sections, send button waiting.]**
 
 ---
 
-**🧭 STRATEGY DEPARTMENT**
+**"Create a 30-day content calendar for the launch."**
+Topic, format, hook angle — every day mapped out. In one conversation. Done.
 
-**Sage — CEO Review Analyst** *(← ➕)*
-Runs your weekly business review. Surfaces what's working, flags what isn't, tells you where to focus.
-*"Run my weekly review — what worked, what didn't" · "Where should I focus next week?"*
+> **[VISUAL: Notion table — 30 rows: Date / Format / Topic / Hook. Fully filled.]**
 
-**Atlas — Offer & Revenue Intelligence** *(← ➕)*
-Tracks your numbers, analyzes your offer performance, and tells you where the money is coming from.
-*"Look at last month's clients and tell me where the revenue came from" · "Which offer should I push next quarter?"*
+---
+
+**📈 MARKETING TEAM**
+
+---
+
+**"Write the full sales page for my new program."**
+Headline. Story. Problem. Solution. Bullets. FAQ. CTA. Complete copy — in 20 minutes.
+
+> **[VISUAL: split screen — blank doc on left → scrollable sales page on right with all sections formatted and visible.]**
+
+---
+
+**"Draft a 5-email launch sequence for next week."**
+Teaser, story, proof, objection-handler, deadline — each with subject line and CTA. Queued in Gmail before 9 A.M.
+
+> **[VISUAL: Gmail drafts folder — 5 emails labeled Day 1 / Day 3 / Day 5 / Day 7 / Day 10, subject lines showing.]**
+
+---
+
+**"Give me 10 Meta ad hooks for this offer."**
+10 angles — pain, transformation, curiosity, testimonial, urgency. Ready to test in 3 minutes.
+
+> **[VISUAL: Claude chat — 10 numbered, formatted ad hooks. Clean, copy-ready.]**
+
+---
+
+**💬 CLIENT & SALES TEAM**
+
+---
+
+**"Check my DMs and draft replies to all the new leads."**
+8 unread DMs. 8 on-brand, personalized replies — drafted and queued for your one-tap approval.
+
+> **[VISUAL: DM inbox — 8 threads, each with drafted reply in bubble, timestamp 3:47 A.M.]**
+
+---
+
+**"Send follow-up to everyone who showed interest but didn't book."**
+The leads who slipped through. Remembered. Followed up automatically. In your voice.
+
+> **[VISUAL: email sent screen — 12 emails, subject "Still thinking it over?" — delivered 9:03 A.M.]**
+
+---
+
+**"Prep me for the sales call with Sarah at 3 P.M."**
+One-page brief: who she is, her main pain, your offer fit, 3 questions to open with. Ready 30 minutes before.
+
+> **[VISUAL: Notion one-pager — About Sarah / Her Pain / Offer Match / Questions to Ask. Timestamp: 2:31 P.M.]**
+
+---
+
+**⚙️ OPERATIONS TEAM**
+
+---
+
+**"Prep my Monday: calendar, priorities, open loops."**
+One clean page. Full week at a glance. Every open loop surfaced. Top 3 priorities for the day. Before your first coffee.
+
+> **[VISUAL: Monday briefing doc — 3 sections: This Week / Open Loops / Today's Focus. Timestamp: 7:00 A.M. Monday.]**
+
+---
+
+**"Onboard the new client — welcome sequence, folder, first check-in."**
+New client signed? Welcome email sent. Drive folder created. First check-in scheduled. You just show up to the call.
+
+> **[VISUAL: 3 simultaneous notifications — Gmail "Welcome sent" / Drive "Folder created" / Calendar "Week 1 check-in added".]**
+
+---
+
+**"Pull last month's revenue and tell me what I should do differently."**
+Stripe data reviewed and summarized. Top offer identified. What underperformed. Three specific action items. Already in your Slack.
+
+> **[VISUAL: Slack message from "AI Team" — revenue total, top offer highlighted in green, 3 bullet action items. Timestamp: 9:01 A.M., first of the month.]**
+
+---
+
+`[ I Want This Team → $67 ]`
 
 ---
 
@@ -577,6 +700,7 @@ Writer, designer, marketer, UGC creator, photographer. Your team handles briefs,
 | Cost                           | $20/mo forever       | $97/mo forever      | $47–$997 per course  | **$67 one-time**     |
 | Implementation support         | None                 | Generic docs        | Theory, no doing     | ✅ Step-by-step      |
 | Money-back guarantee           | ❌                    | ❌                   | Sometimes            | ✅ 30 days           |
+| **Who does the work**          | You. Always.         | Anonymous bots      | Nobody               | ✅ Stella, Nova, Maya, Chase, Leo, Blake, Quinn, Finn, Sage, Atlas |
 
 ---
 
