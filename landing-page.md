@@ -145,74 +145,179 @@ Skip the doubt.
 
 ---
 
-## SECTION 3B — What's Inside AI Dream Team
+## SECTION 3B — The Author System Behind AI Dream Team
 
-*Visual: course cover / app icon right, text left. Conversational — not a features list.*
+### Headline:
 
----
+**The 3-Step System Behind a Business That Runs Without You.**
 
-**Here's what's waiting for you inside:**
-
-Not a course full of videos you'll watch and forget.
-Not another prompt cheat sheet you'll save and never open.
-Not a $97/month subscription with anonymous bots who forgot your business by Tuesday.
-
-**AI Dream Team is 30 done-for-you AI employees — organized by department, loaded with ready-made instruction sets, pre-trained on real frameworks that have been tested across hundreds of one-person businesses.**
-
-You plug in your business. They go to work.
-
-> **[VISUAL: Claude Projects dashboard — 5 department folders open (Content / Client / Marketing / Ops / Strategy), each with employee files inside. Real screenshot.]**
+*Built and battle-tested by Emma in her own 7-figure coaching business. Now refined across 2,300+ solopreneurs.*
 
 ---
 
-**The Signature Method: Context + Connectors.**
+There's no 47-module slog inside AI Dream Team.
+No prompt cheat sheets to memorize.
+No tool stack to maintain.
+No anonymous bots that forget your business by Tuesday.
 
-The only system that *teaches* your AI your business AND *connects* it to the tools you already use — so your team stops handing you drafts and starts getting things done.
+**What you install instead is a 3-step author system. Step by step. Weekend-fast. Permanent.**
 
----
+```
+STEP 1.  Second Brain OS    →  Claude knows your business cold
+STEP 2.  AI Dream Team       →  30 employees execute the work
+STEP 3.  One-Person Company  →  You run it all from your phone
+```
 
-**→ Part 1: Your Business, Loaded Into Claude.**
+Each step builds on the last.
+By Sunday night, you have all three.
 
-The 6-layer upload process — your voice, your offers, your audience, your prices, your story, your strategy. Done once. Every employee runs from it. Every output comes back sounding indistinguishable from you.
-
-> **[VISUAL: Claude Projects — 6 knowledge files labeled: Voice Guide / Offer Map / Audience Profile / Story Bank / Sales Scripts / Pricing Sheet]**
-
-**Why it changes everything:** Without this, AI sounds like AI. With this, your clients can't tell the difference.
-Our students call it: *"The step I had no idea I was missing."*
-
----
-
-**→ Part 2: 30 Done-For-You Employees — Copy, Paste, Live.**
-
-Not templates. Not fill-in-the-blank worksheets. Fully built Claude Projects and Skills you load in one afternoon. Swap in your business details. Your team is live.
-
-> **[VISUAL: one employee Project opening — role brief, skills attached, knowledge files loaded. Clean Claude UI.]**
-
-**Why it changes everything:** Each employee has a job, a brief, and your full business context. You give the instruction. They execute — in your voice, every time.
+> **[VISUAL: 3-step roadmap graphic, horizontal arrows. Clean, branded. Subtitle: "What gets installed this weekend."]**
 
 ---
 
-**→ Part 3: Connectors — AI That Actually Does The Work.**
+## STEP 1 — The Second Brain OS
 
-This is the part most AI courses never teach.
+### *The 90-minute foundation that turns Claude from a generic chatbot into a thinking partner that knows your business better than your last VA ever did.*
 
-Your team stops handing you drafts to copy-paste. It opens Canva and designs the carousel. It reads Gmail and queues the replies. It pulls the Stripe report. Voice from your phone. One instruction. Done.
+There's a reason your AI still sounds like AI.
 
-> **[VISUAL: Claude mobile — voice command "design the launch carousel" → Canva link in reply → carousel already built, on-brand]**
+It doesn't know you yet.
 
-**Why it changes everything:** You stop being the operator. You become the CEO.
+Not your voice. Not your offers. Not the way you sign off on a Friday email. Not the lines you use to close a sales call. Not the analogies you've been refining for years. To it, you're a stranger every morning.
+
+Step 1 ends that.
+
+Permanently.
+
+In a single sitting — most students do it in under 90 minutes — you'll load every layer of your business into Claude. Once it's in, it's in. Every employee that runs on top of it inherits *all of it*.
+
+Here's what you'll install:
+
+- **The 6-Layer Business Upload** — the only framework you'll ever need to teach Claude your business. Refined across 2,300+ solopreneurs and 100+ industries. Done once. Runs forever.
+- **The Voice Print Method** — the exact process to capture how you write, speak, and think… so every email, caption, and DM reads like you on your best day (not a polished corporate version)
+- **The Fingerprint Test** — the 60-second check that proves your Claude actually knows you. With the fix for exactly what's missing if it doesn't.
+- **The Offer Map** — every product, price, package, bonus, and discount loaded once… so your team stops asking and starts selling.
+- **The Audience Vault** — the language, objections, dreams, and fears of your buyers, all in one place… so every word your team writes lands like it was written by someone who's been in your DMs for years.
+- **The Story Bank** — your founder story, your client wins, your signature analogies… ready to be remixed into any post, email, or sales page on demand.
+- **The Sales Script Library** — the hooks, lines, and closes you've earned over years of selling. Saved. Installed. Available to every employee, every time they write copy.
+
+> **[VISUAL: Claude Projects sidebar showing 6 knowledge files glowing — Voice / Offer Map / Audience Vault / Story Bank / Sales Scripts / Pricing. Caption: "Loaded once. Runs forever."]**
+
+**What this unlocks:**
+
+The first time you ask Claude to draft a caption — and you stare at the screen for a full ten seconds because you cannot tell if you wrote it or it did — *that's* when you'll know the Second Brain is live.
+
+That's the moment the work starts feeling different.
 
 ---
 
-**→ Part 4: Skills & Frameworks — The Engine Underneath.**
+## STEP 2 — Your AI Dream Team
 
-The ready-made Claude Skills and Frameworks that make every employee faster, sharper, and more consistent. Already tested. Already refined. You inherit the result — without building it from scratch.
+### *30 ready-made employees, organized into 4 departments. The team you've always wished you had — minus the payroll, the drama, and the onboarding.*
 
-> **[VISUAL: Claude Skills panel — 6 skills installed: Voice Tone / Offer Brief / Audience ICP / Launch Calendar / Content Style / CRM Data]**
+Now you have the foundation. Time to staff it.
+
+Most solopreneurs try to do everything themselves. The smart ones hire one VA who quits. The really smart ones build an entire team — and never look back.
+
+Step 2 gives you the team.
+
+30 employees. Pre-built. Loaded with instructions, frameworks, and your Second Brain. You don't manage them. You give them work. They go.
+
+Here's how your team is organized:
 
 ---
 
-**And now — meet the team that executes all of it.**
+**🎨 The Content Team**
+
+*Your in-house creative crew. Captions, carousels, reels, newsletters, blog posts — produced in your voice, on your schedule, while you live your life.*
+
+> **The dream scene:** You walk in from the school run. Open your laptop. 30 days of content is already drafted — captions, carousels, newsletters — all in your voice, all ready to schedule. By the time your coffee cools, the week's content is done.
+
+---
+
+**📈 The Marketing Team**
+
+*Your launch crew. Sales pages, email sequences, ad hooks, landing pages — engineered to convert, ready before your next offer goes live.*
+
+> **The dream scene:** Sunday night you decide to launch a new offer Monday. By 9 A.M. Monday: sales page written, 5-email sequence queued, 10 ad hooks ready to test. You didn't write a single word.
+
+---
+
+**💬 The Client & Sales Team**
+
+*Your front desk. DMs answered in 60 seconds. Leads qualified. Follow-ups sent. Sales calls prepped. Every conversation handled — even the ones that come in at 3 A.M.*
+
+> **The dream scene:** You wake up. 8 DMs came in overnight. 8 on-brand, personalized replies are already drafted and waiting for your one-tap approval. You sent them before brushing your teeth.
+
+---
+
+**⚙️ The Operations Team**
+
+*Your behind-the-scenes ops. Calendar, onboarding, invoices, weekly reviews, revenue reports — the unglamorous work that keeps the lights on. Handled before your first coffee.*
+
+> **The dream scene:** Monday morning, 7 A.M. One clean page sitting in your inbox: what's on the calendar, what's still open from last week, the top 3 things to focus on today. You sip your coffee and start.
+
+---
+
+> **[VISUAL: 4 department cards in a 2×2 grid. Each card shows the Claude Projects screenshot of that department with employees inside. Real, not stock.]**
+
+**What this unlocks:**
+
+By the end of Sunday night, every department of your business is staffed and running. You don't write the playbooks. You don't draft the instructions. You inherit a team that's already been tested across hundreds of one-person businesses just like yours.
+
+You stop being the marketer, the copywriter, the support rep, the bookkeeper, the salesperson, and the janitor.
+
+You become the one person who decides.
+
+---
+
+## STEP 3 — The One-Person Company
+
+### *Voice from your phone. One hour a day. Revenue going up while your hours go down. And finally — your life back.*
+
+This is where it stops being a system and starts being a lifestyle.
+
+Step 1 gave you a brain.
+Step 2 gave you a team.
+Step 3 gives you back your time.
+
+In Step 3 you'll install the daily, weekly, and monthly rhythms that turn AI Dream Team from a productivity tool into a *way of running your business* — and a way of running your life.
+
+Here's what becomes normal:
+
+- **The 1-Hour CEO Routine** — the exact phone-only workflow that runs your entire business day in 60 minutes (most students do it in bed, before their first coffee)
+- **The Voice-First Setup** — how to talk to your team like you're briefing a real assistant… no typing, no prompts, no laptop required
+- **The Closed-Laptop Rule** — the daily boundary that finally lets you end work at 3 P.M. without anything slipping through the cracks
+- **The Sunday CEO Review** — the 15-minute weekly ritual that gives you 7 days of clarity, focus, and direction (without spending Sunday "catching up")
+- **The Quarterly Reset** — the one strategic conversation that reshapes your business every 90 days… so you stop reacting and start leading
+- **The Travel Workflow** — how to run your entire business from anywhere with cell signal… so you finally take that trip without postponing your launch
+- **The CEO Dashboard** — the one page you check each morning that tells you everything you need to know about your business in 30 seconds
+
+> **[VISUAL: iPhone home screen — calendar wide open in the afternoon. Voice memo card visible: "Schedule three follow-ups for Friday." Timestamp: 2:14 P.M., Tuesday.]**
+
+**What this unlocks:**
+
+You stop being the person who does the work.
+You become the person who runs the company.
+
+A team that handles the doing.
+A brain that handles the thinking.
+A phone that handles the deciding.
+
+You close the laptop at 3 P.M. and don't open it again until tomorrow.
+You take the trip you've been postponing for two years.
+You pick the kids up at 4 P.M. and actually be there.
+
+**That's the One-Person Company.**
+**And that's where AI Dream Team takes you.**
+
+---
+
+`[ Install The System This Weekend → $67 ]`
+
+---
+
+**And now — let's meet the team that executes all of it.**
 
 ---
 
