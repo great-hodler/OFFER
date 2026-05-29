@@ -45,15 +45,15 @@ CEO With a Full AI Team. Built in One Weekend. $67.**
 
 ### Sub-headline — Variant A (CHOSEN)
 
-The only system that turns Claude into a full staff of 30 AI employees — trained in your business, running in your voice, working while you sleep. No code. No complexity. Voice from your phone.
+By Monday morning, 30 employees will know your business cold, sound exactly like you, and be executing while you're still in bed. All built this weekend. Voice from your phone. $67.
 
 ### Sub-headline — Variant B
 
-Build your AI Dream Team inside Claude this weekend. Your new staff creates content, answers clients, and manages your business — 24/7. If you can talk into your phone, you can build this.
+You've spent months being your own VA, copywriter, DM manager, and bookkeeper. This weekend, you hire 30 who know your voice, your offers, your clients, and your calendar — and start executing Monday morning.
 
 ### Sub-headline — Variant C
 
-One weekend to set up. One hour a day to run. An AI team that knows your business, sounds like you, and never forgets a thing — for less than dinner.
+Most solopreneurs use AI like a smarter search engine. This weekend, you build a 30-person team inside Claude that writes your content, answers your DMs, designs in Canva, and runs your ops — all in your exact voice. One hour a day. From your phone.
 
 ---
 
