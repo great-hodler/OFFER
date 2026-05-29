@@ -149,27 +149,25 @@ Skip the doubt.
 
 ### Headline:
 
-**The 3-Step System Behind a Business That Runs Without You.**
+**Here's What Gets Installed in Your Business This Weekend —**
+**While the Kids Watch a Movie and You Drink Coffee on the Couch.**
 
-*Built and battle-tested by Emma in her own 7-figure coaching business. Now refined across 2,300+ solopreneurs.*
+*The same 3-layer system Emma built to fire herself from her own coaching business — so she could pick her daughter up at 3 P.M. without postponing a single launch. Now installed by 2,300+ solopreneurs across 40+ countries.*
 
 ---
 
-There's no 47-module slog inside AI Dream Team.
-No prompt cheat sheets to memorize.
-No tool stack to maintain.
-No anonymous bots that forget your business by Tuesday.
+No 47-module course. No prompt cheat sheets to memorize. No tools to babysit.
 
-**What you install instead is a 3-step author system. Step by step. Weekend-fast. Permanent.**
+**What you get instead is shorter, simpler, and permanent — a 3-layer system you install in one weekend and never rebuild again.**
 
-```
-STEP 1.  Second Brain OS    →  Claude knows your business cold
-STEP 2.  AI Dream Team       →  30 employees execute the work
-STEP 3.  One-Person Company  →  You run it all from your phone
-```
-
-Each step builds on the last.
-By Sunday night, you have all three.
+> **STEP 1 — You teach Claude your business once.**
+> *(90 minutes. Sunday morning, coffee in hand.)*
+>
+> **STEP 2 — You meet your 30 new employees.**
+> *(Already trained. Already in your voice. Already on the clock.)*
+>
+> **STEP 3 — You close the laptop at 3 P.M.**
+> *(And the business keeps running without you.)*
 
 > **[VISUAL: 3-step roadmap graphic, horizontal arrows. Clean, branded. Subtitle: "What gets installed this weekend."]**
 
@@ -177,27 +175,35 @@ By Sunday night, you have all three.
 
 ## STEP 1 — The Second Brain OS
 
-### *The 90-minute foundation that turns Claude from a generic chatbot into a thinking partner that knows your business better than your last VA ever did.*
+### *In 90 minutes this Sunday, you'll teach Claude things about your business your last VA never learned in six months.*
 
 There's a reason your AI still sounds like AI.
 
 It doesn't know you yet.
 
-Not your voice. Not your offers. Not the way you sign off on a Friday email. Not the lines you use to close a sales call. Not the analogies you've been refining for years. To it, you're a stranger every morning.
+Not your voice.
+Not your offers.
+Not the way you sign off on a Friday email.
+Not the closing lines you've used on a hundred sales calls.
+Not the analogies you've spent years refining.
+
+To it, you're a stranger every morning.
 
 Step 1 ends that.
 
 Permanently.
 
-In a single sitting — most students do it in under 90 minutes — you'll load every layer of your business into Claude. Once it's in, it's in. Every employee that runs on top of it inherits *all of it*.
+The next time you sit down to write, you don't sit down alone. There's a thinking partner in the room who already knows your voice, your offers, your clients, and the way you talk on a Friday — and remembers all of it tomorrow.
+
+In one Sunday morning — somewhere between your second coffee and lunch — you'll pour ten years of your voice, your offers, your sales lines, your client stories into Claude. And it stays there. Forever. The next time you log in Monday morning, Claude doesn't ask who you are. It already knows.
 
 Here's what you'll install:
 
-- **The 6-Layer Business Upload** — the only framework you'll ever need to teach Claude your business. Refined across 2,300+ solopreneurs and 100+ industries. Done once. Runs forever.
-- **The Voice Print Method** — the exact process to capture how you write, speak, and think… so every email, caption, and DM reads like you on your best day (not a polished corporate version)
-- **The Fingerprint Test** — the 60-second check that proves your Claude actually knows you. With the fix for exactly what's missing if it doesn't.
-- **The Offer Map** — every product, price, package, bonus, and discount loaded once… so your team stops asking and starts selling.
-- **The Audience Vault** — the language, objections, dreams, and fears of your buyers, all in one place… so every word your team writes lands like it was written by someone who's been in your DMs for years.
+- **The 6-Layer Upload** — the strange order Emma stumbled into after her third failed Claude project… that turned a generic chatbot into something her own assistant called *"freakishly accurate."* Do it once on Sunday. Never repeat it.
+- **The Voice Print Method** — the exact process to capture how you write, speak, and think… so every email, caption, and DM reads like you on your best day (not a polished corporate version).
+- **The Fingerprint Test** — the 60-second prompt that tells you, in plain English, whether your Claude actually knows you yet… or is still faking it. *(Most people fail it on the first try. The fix takes 4 minutes.)*
+- **The Offer Map** — why even great VAs answer pricing questions wrong half the time… and the one document that fixes it forever. *(After this, your DM replies quote prices like you wrote them at 9 A.M. fresh.)*
+- **The Audience Vault** — the language, objections, dreams, and fears of your buyers — all in one place. So every word your team writes lands like it was written by someone who's been in your DMs for years.
 - **The Story Bank** — your founder story, your client wins, your signature analogies… ready to be remixed into any post, email, or sales page on demand.
 - **The Sales Script Library** — the hooks, lines, and closes you've earned over years of selling. Saved. Installed. Available to every employee, every time they write copy.
 
@@ -207,21 +213,32 @@ Here's what you'll install:
 
 The first time you ask Claude to draft a caption — and you stare at the screen for a full ten seconds because you cannot tell if you wrote it or it did — *that's* when you'll know the Second Brain is live.
 
-That's the moment the work starts feeling different.
+That's the moment everything changes. Because from that draft forward, you're not writing alone anymore. You're editing somebody else's work — and that somebody is *you, on your best day*.
+
+*But a brain alone doesn't run a business. A brain needs hands.*
+**→ That's Step 2.**
 
 ---
 
 ## STEP 2 — Your AI Dream Team
 
-### *30 ready-made employees, organized into 4 departments. The team you've always wished you had — minus the payroll, the drama, and the onboarding.*
+### *Meet the 30 people who work for you starting Monday morning. No payroll. No drama. No "let me check in next week."*
 
-Now you have the foundation. Time to staff it.
+Now Claude knows you.
 
-Most solopreneurs try to do everything themselves. The smart ones hire one VA who quits. The really smart ones build an entire team — and never look back.
+But knowing you isn't enough. You don't need a smarter chatbot. You need *people*. Hands. A team that takes work off your plate and gives it back finished.
 
-Step 2 gives you the team.
+That's Step 2.
 
-30 employees. Pre-built. Loaded with instructions, frameworks, and your Second Brain. You don't manage them. You give them work. They go.
+This is the part where, for the first time since you started this business, you stop being the only one in the room.
+
+30 employees. Already hired. Already trained. Already drinking the coffee at the kitchen table with you.
+
+You don't write their job descriptions. You don't onboard them. You don't pay them. You walk over, say what you need — out loud, into your phone — and walk away.
+
+An hour later it's on your desk.
+
+For the first time since you started this business, you're not the one doing it.
 
 Here's how your team is organized:
 
@@ -231,23 +248,23 @@ Here's how your team is organized:
 
 *Your in-house creative crew. Captions, carousels, reels, newsletters, blog posts — produced in your voice, on your schedule, while you live your life.*
 
-> **The dream scene:** You walk in from the school run. Open your laptop. 30 days of content is already drafted — captions, carousels, newsletters — all in your voice, all ready to schedule. By the time your coffee cools, the week's content is done.
+> **The dream scene:** You walk in from the school run. You open Claude on the kitchen counter. You say, out loud: *"Pull this week's content from the Story Bank — five captions, one carousel, one newsletter."* You make coffee. By the time it cools, the drafts are sitting there in your voice. You spend 12 minutes editing. You're done before 10 A.M.
 
 ---
 
 **📈 The Marketing Team**
 
-*Your launch crew. Sales pages, email sequences, ad hooks, landing pages — engineered to convert, ready before your next offer goes live.*
+Sales pages. Email sequences. Ad hooks. Landing pages.
 
-> **The dream scene:** Sunday night you decide to launch a new offer Monday. By 9 A.M. Monday: sales page written, 5-email sequence queued, 10 ad hooks ready to test. You didn't write a single word.
+> **You decide to launch Monday at 9 P.M. Sunday. By 9 A.M. Monday it's all written. You approve. They publish.**
 
 ---
 
 **💬 The Client & Sales Team**
 
-*Your front desk. DMs answered in 60 seconds. Leads qualified. Follow-ups sent. Sales calls prepped. Every conversation handled — even the ones that come in at 3 A.M.*
+DMs. Lead qualification. Follow-ups. Sales call prep.
 
-> **The dream scene:** You wake up. 8 DMs came in overnight. 8 on-brand, personalized replies are already drafted and waiting for your one-tap approval. You sent them before brushing your teeth.
+> **You wake up to 8 DMs from new leads. 8 replies are already drafted — in your voice, with the right offer, ready for your one-tap approval. You read them, tap send, brush your teeth.**
 
 ---
 
@@ -265,15 +282,25 @@ Here's how your team is organized:
 
 By the end of Sunday night, every department of your business is staffed and running. You don't write the playbooks. You don't draft the instructions. You inherit a team that's already been tested across hundreds of one-person businesses just like yours.
 
-You stop being the marketer, the copywriter, the support rep, the bookkeeper, the salesperson, and the janitor.
+---
 
-You become the one person who decides.
+Remember the six people you turned into?
+
+The marketer. The copywriter. The support rep. The bookkeeper. The salesperson. The janitor.
+
+You hand them their final paychecks this weekend.
+
+You become the one person you started this business to be.
+**The one who decides.**
+
+*Now you've got a brain and a team. There's one piece left — the part that gives you your life back.*
+**→ That's Step 3.**
 
 ---
 
 ## STEP 3 — The One-Person Company
 
-### *Voice from your phone. One hour a day. Revenue going up while your hours go down. And finally — your life back.*
+### *The part where you get your life back. One hour a day, on your phone, from anywhere — while the business runs without you in the room.*
 
 This is where it stops being a system and starts being a lifestyle.
 
@@ -283,37 +310,40 @@ Step 3 gives you back your time.
 
 In Step 3 you'll install the daily, weekly, and monthly rhythms that turn AI Dream Team from a productivity tool into a *way of running your business* — and a way of running your life.
 
+Here's what nobody tells you about working alone: the worst part isn't the hours. It's the guilt. The guilt at 11 P.M. that you should still be working. The guilt at the school pickup that you're not. The guilt on Sunday that you didn't batch the content. Step 3 is the part of the system that ends that — not because you work less (you do), but because the work is genuinely getting done while you're not at the laptop.
+
 Here's what becomes normal:
 
-- **The 1-Hour CEO Routine** — the exact phone-only workflow that runs your entire business day in 60 minutes (most students do it in bed, before their first coffee)
-- **The Voice-First Setup** — how to talk to your team like you're briefing a real assistant… no typing, no prompts, no laptop required
-- **The Closed-Laptop Rule** — the daily boundary that finally lets you end work at 3 P.M. without anything slipping through the cracks
-- **The Sunday CEO Review** — the 15-minute weekly ritual that gives you 7 days of clarity, focus, and direction (without spending Sunday "catching up")
-- **The Quarterly Reset** — the one strategic conversation that reshapes your business every 90 days… so you stop reacting and start leading
-- **The Travel Workflow** — how to run your entire business from anywhere with cell signal… so you finally take that trip without postponing your launch
-- **The CEO Dashboard** — the one page you check each morning that tells you everything you need to know about your business in 30 seconds
+- **The 1-Hour CEO Routine** — the strange morning sequence Emma does *in bed, before coffee*, that handles the entire day's business in under 60 minutes. *(Step 4 is the one nobody expects. It's why the laptop stays closed.)*
+- **The Voice-First Setup** — how to talk to your team like you're briefing a real assistant… no typing, no prompts, no laptop required.
+- **The Closed-Laptop Rule** — the one-line decision (you make it once, then never again) that ends the 11 P.M. laptop habit for good. Without anything slipping. Without the guilt.
+- **The Sunday CEO Review** — the 15-minute weekly ritual that gives you 7 days of clarity, focus, and direction *(without spending Sunday "catching up")*.
+- **The Quarterly Reset** — the 40-minute conversation with your AI Dream Team (you talk, they take notes) that reshapes the next 90 days of your business. The output is one page. You'll keep it on your fridge.
+- **The Travel Workflow** — how to run your entire business from anywhere with cell signal… so you finally take that trip without postponing your launch.
+- **The CEO Dashboard** — the one page you check each morning that tells you everything you need to know about your business in 30 seconds.
 
 > **[VISUAL: iPhone home screen — calendar wide open in the afternoon. Voice memo card visible: "Schedule three follow-ups for Friday." Timestamp: 2:14 P.M., Tuesday.]**
 
 **What this unlocks:**
 
-You stop being the person who does the work.
-You become the person who runs the company.
+You close the laptop at 3 P.M. — and nothing breaks.
+
+You pick the kids up at 4 P.M. — and you're actually there. Phone in your pocket. Mind in the moment.
+
+You take the trip you've postponed for two years — and your launch still goes out on Tuesday.
+
+You stop being the person who *does* the business.
+You become the person who *runs* it.
 
 A team that handles the doing.
 A brain that handles the thinking.
-A phone that handles the deciding.
-
-You close the laptop at 3 P.M. and don't open it again until tomorrow.
-You take the trip you've been postponing for two years.
-You pick the kids up at 4 P.M. and actually be there.
+A phone — in your pocket — that handles the deciding.
 
 **That's the One-Person Company.**
-**And that's where AI Dream Team takes you.**
-
----
+**And that's where AI Dream Team takes you — starting this weekend, for less than dinner for two.**
 
 `[ Install The System This Weekend → $67 ]`
+*412 of 500 founder spots claimed · 30-Day Money-Back Guarantee*
 
 ---
 
